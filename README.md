@@ -1,2 +1,7 @@
-# Sitema-Integrador-de-Parqueaderos
-Es la continuación de Parking UIS, sin embargo ahora es un software generico para parqueaderos de la ciudad, se proyecta terminar el desarrollo de una App Movil informativa.
+Este proyecto fue propesto para la asignatura Ingeniería de Software II.
+
+Este proyecto esta compuesto por una app de escritorio para gestion del parqueadero de la universidad y una app movil dar información a los usuarios del parqueadero.
+
+El proyecto está desarrollado en el lenguaje de programación Java para la App de escritorio y Flutter para la app movil.
+
+Video explicativo: https://youtu.be/qqpbgQZCTYI
