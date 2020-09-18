@@ -9,4 +9,5 @@ Este proyecto esta compuesto por una app de escritorio para gestion de UN parque
 El proyecto está desarrollado en el lenguaje de programación Java para la App de escritorio y Flutter para la app movil.
 
 Video explicativo: https://youtu.be/qqpbgQZCTYI
+
 Link a App de escritorio https://drive.google.com/drive/folders/1ihfQiZHrLQvE5F_lfb8mWmpTvEVZIrd_?usp=sharing
