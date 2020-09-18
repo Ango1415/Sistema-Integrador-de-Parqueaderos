@@ -2,7 +2,7 @@
 
 # Sistema Integrador de Parqueaderos.
 
-Este proyecto fue propesto para la asignatura Ingeniería de Software II.
+Este proyecto fue propesto para la asignatura Ingeniería de Software II (Es la continuación de lo desarrollado en Parking-UIS).
 
 Este proyecto esta compuesto por una app de escritorio para gestion del parqueadero de la universidad y una app movil dar información a los usuarios del parqueadero.
 
