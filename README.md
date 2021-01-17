@@ -14,11 +14,6 @@ Video explicativo: https://youtu.be/qqpbgQZCTYI
 Link a App de escritorio https://drive.google.com/drive/folders/1ihfQiZHrLQvE5F_lfb8mWmpTvEVZIrd_?usp=sharing
 
 
-
-
-
-
-
 ENGLISH:
 # Integrating Parking System.
 
