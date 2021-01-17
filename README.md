@@ -1,7 +1,6 @@
 ![Banner Sistema Integrador de Paqueaderos](banner.png)
 
-#ESPAÑOL
-
+ESPAÑOL:
 # Sistema Integrador de Parqueaderos.
 
 Este proyecto fue propesto para la asignatura Ingeniería de Software II (Es la continuación de lo desarrollado en Parking-UIS).
@@ -15,8 +14,8 @@ Video explicativo: https://youtu.be/qqpbgQZCTYI
 Link a App de escritorio https://drive.google.com/drive/folders/1ihfQiZHrLQvE5F_lfb8mWmpTvEVZIrd_?usp=sharing
 
 
-#ENGLISH
 
+ENGLISH:
 # Integrating Parking System.
 
 This project was planned for the Software Engineering II course (It is the continuation of what was developed in Parking-UIS).
