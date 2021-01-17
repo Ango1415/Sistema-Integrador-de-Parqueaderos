@@ -23,6 +23,6 @@ This project is composed of a desktop app for the management of ONE parking lot 
 
 The project is developed in the Java programming language for the desktop App and Flutter for the mobile app.
 
-Explanatory video:
+Explanatory video (in spanish): https://youtu.be/qqpbgQZCTYI
 
 Link to desktop App https://drive.google.com/drive/folders/1ihfQiZHrLQvE5F_lfb8mWmpTvEVZIrd_?usp=sharing
